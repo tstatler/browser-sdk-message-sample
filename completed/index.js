@@ -1,7 +1,7 @@
 // Get your personal access token:
 // https://developer.webex.com/docs/getting-started
 
-var personalAccessToken="Yjg3YThlODctZjFhYy00NjViLWFlNWEtZTkwYjUwNTQ4ZjcwNzdhZTNmYWMtMmRi_PF84_1eb65fdf-9643-417f-9974-ad72cae0e10f";
+var personalAccessToken="<YOUR-PERSONAL-ACCESS_TOKEN>";
 
 const webex = (window.webex = window.Webex.init({
   credentials: {
